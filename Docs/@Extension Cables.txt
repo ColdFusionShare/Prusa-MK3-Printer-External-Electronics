@@ -1,0 +1,142 @@
+
+Stepper Motors
+==============
+
+
+Housing (4 pin Plug)
+--------------------
+Digi-Key Part Number 	WM2535-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0701070003 	
+Description 	CONN HOUSING MALE 4POS .100 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	4 Position Rectangular Housing Connector Plug Black 0.100" (2.54mm) 
+
+$0.85
+
+Contacts for Housing (4 pin Plug)
+---------------------------------
+Digi-Key Part Number 	WM2515-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0016020115 	
+Description 	CONN PIN 22-24AWG CRIMP GOLD 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	Pin Contact Gold 22-24 AWG Crimp 
+
+$20.45  for 50 pieces
+
+
+Housing (4 pin Receptacle)
+--------------------------
+Digi-Key Part Number 	WM2902-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0050579404 	
+Description 	CONN HOUSING 4POS .100 W/LATCH 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	4 Position Rectangular Housing Connector Receptacle Black 0.100" (2.54mm) 
+
+$0.37
+
+
+Contacts for Housing (4 pin Receptacle)
+---------------------------------------
+Digi-Key Part Number 	WM2512-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0016020103 	
+Description 	CONN SOCKET 22-24AWG CRIMP GOLD 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	Socket Contact Gold 22-24 AWG Crimp 
+
+$9.38  for 50 pieces
+
+
+
+Fans
+====
+
+Housing (3 pin Plug)
+--------------------
+Digi-Key Part Number 	WM2534-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0701070002 	
+Description 	CONN HOUSING MALE 3POS .100 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	3 Position Rectangular Housing Connector Plug Black 0.100" (2.54mm) 
+
+$0.85
+
+
+Housing (3 pin Receptacle)
+--------------------------
+Digi-Key Part Number 	WM2901-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0050579403 	
+Description 	CONN HOUSING 3POS .100 W/LATCH 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	3 Position Rectangular Housing Connector Receptacle Black 0.100" (2.54mm) 
+
+$0.33
+
+
+
+Thermistor
+==========
+
+Housing (2 pin Plug)
+--------------------
+Digi-Key Part Number 	WM2533-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0701070001 	
+Description 	CONN HOUSING MALE 2POS .100 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	2 Position Rectangular Housing Connector Plug Black 0.100" (2.54mm) 
+
+$0.74
+
+
+Housing (2 pin Receptacle)
+--------------------------
+Digi-Key Part Number 	WM2900-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0050579402 	
+Description 	CONN HOUSING 2POS .100 W/LATCH 	
+Manufacturer Standard Lead Time 	3 Weeks 	
+Detailed Description 	2 Position Rectangular Housing Connector Receptacle Black 0.100" (2.54mm) 
+
+$0.38
+
+
+PINDA Probe and MMU2 Cable
+===========================
+
+Housing (5 pin Plug)
+--------------------
+Digi-Key Part Number 	WM2536-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0701070004 	
+Description 	CONN HOUSING MALE 5POS .100 	
+Manufacturer Standard Lead Time 	4 Weeks 	
+Detailed Description 	5 Position Rectangular Housing Connector Plug Black 0.100" (2.54mm) 
+
+$1.18
+
+
+
+Housing (5 pin Receptacle)  - no lock - goes into 2 x 5 pin header
+------------------------------------------------------------------
+Digi-Key Part Number 	WM2803-ND 	
+Manufacturer 	Molex 	
+Manufacturer Part Number 	0050579005 	
+Description 	CONN HOUSING 5POS .100 SINGLE 	
+Manufacturer Standard Lead Time 	5 Weeks 	
+Detailed Description 	5 Position Rectangular Housing Connector Receptacle Black 0.100" (2.54mm) 
+
+$0.70
+
+
+
+
+
+
+
+
