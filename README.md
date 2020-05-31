@@ -1,7 +1,7 @@
 # Prusa External Electronics
 A project to enable moving PSU, EINSY, and LCD out of your enclosure.
 
-- BOM added
+- BOM (updated with missing front and back panel parts)
 - Fusion 360 source files added
 
 Overall View:
